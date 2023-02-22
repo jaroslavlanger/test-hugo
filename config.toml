@@ -1,0 +1,4 @@
+baseURL = 'https://jaroslavlanger.com/'
+languageCode = 'en-us'
+title = 'Jaroslav Langer'
+theme = 'theme'
